@@ -1,6 +1,6 @@
 # Email-auto-sending
 
-Автоматизация рассылок на Tilda  с помощью YCF
+Автоматизация рассылок на Tilda  с помощью YandexCloudFunctions
 
 ## Задача проекта
 
